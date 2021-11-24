@@ -6,3 +6,6 @@ alu
 begun
 kathal
 lau
+ami
+tumi
+
