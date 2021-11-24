@@ -2,3 +2,6 @@ mango
 am
 jaam 
 kola
+alu
+begun
+kathal
