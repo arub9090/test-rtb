@@ -5,3 +5,4 @@ kola
 alu
 begun
 kathal
+lau
